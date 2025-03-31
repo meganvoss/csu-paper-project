@@ -17,5 +17,5 @@ format:
 execute:
   freeze: true
 
-
+output-dir: docs
 
